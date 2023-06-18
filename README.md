@@ -29,7 +29,8 @@ $ git status
 $ git push
 ```
 
-By DevRel <💜 /> [Nadi Duno](https://www.linkedin.com/in/nadiduno/) | Embaixadora da [Tote Diversidade](https://totidiversidade.com.br/)  © 2023
+By DevRel <💜 /> [Nadi Duno](https://www.linkedin.com/in/nadiduno/) | Embaixadora da [Toti Diversidade](https://totidiversidade.com.br/)  © 2023
+<br />
 <br />
 [![Author](https://img.shields.io/badge/Dev-Nadi%20Duno-blueviolet%20)](https://portfolio-nadi.vercel.app/)
 [![Social](https://img.shields.io/twitter/follow/nadiduno?label=%40nadiduno&style=social)](https://twitter.com/nadiduno)
