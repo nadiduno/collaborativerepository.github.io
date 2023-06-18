@@ -4,6 +4,5 @@ function getGitHubProfileInfos() {
       .then(data => {
         textRandom.textContent = data.quote
       })
-}
-  
+} 
 getGitHubProfileInfos()
